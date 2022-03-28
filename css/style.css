@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.image-size-logo {
+    max-width: 75px;
+
+}
+
+.quem-somos {
+    background-color: rgb(78, 117, 133);
+    margin-top: 120px;
+}
+
+.paragrafo{
+    font-size: 18px;
+    text-align: center;
+    padding: 25px;
+}
+
+.servicos{
+    background-color: rgb(73, 182, 140); 
+}
+
+.pai-do-paragrafo{
+    max-width: 100%;
+    align-items: center;
+}
+
+.parceiros {
+    background-color: rgb(182, 73, 96); 
+}
+
+.espacamento {
+    padding-bottom: 25px;
+}
